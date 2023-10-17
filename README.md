@@ -20,7 +20,7 @@
 
 <ol>
   <li><strong>Clone the repository:</strong></li>
-  <pre><code>git clone &lt;https://github.com/sorosons/clean_architecture_cubit&gt;</code></pre>
+  <pre><code>git clone https://github.com/sorosons/clean_architecture_cubit;</code></pre>
   <pre><code>cd clean-architecture-cubit</code></pre>
 
   <li><strong>Install Dependencies:</strong></li>
